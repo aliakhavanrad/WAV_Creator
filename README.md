@@ -2,12 +2,14 @@
 
   # Usage
 
+  ```
   WAV_Creator.WAV wav = new WAV_Creator.WAV();
   wav.Create(440, 50, 10, folderPath);
-
+  ```
 
   OR
   
+  ```
   WAV_Creator.WAV wav = new WAV_Creator.WAV();
 
   int amplitude = 40;
@@ -26,6 +28,6 @@
   }
 
   wav.Export($@"D:\Sample_WAV.wav");
-
+  ```
   
   
