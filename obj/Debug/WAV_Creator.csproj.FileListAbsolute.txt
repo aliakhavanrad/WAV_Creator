@@ -1,0 +1,6 @@
+D:\Sound Analyzing\Develop\WAVSampleReader\WAV_Creator\bin\Debug\WAV_Creator.dll
+D:\Sound Analyzing\Develop\WAVSampleReader\WAV_Creator\bin\Debug\WAV_Creator.pdb
+D:\Sound Analyzing\Develop\WAVSampleReader\WAV_Creator\obj\Debug\WAV_Creator.csprojAssemblyReference.cache
+D:\Sound Analyzing\Develop\WAVSampleReader\WAV_Creator\obj\Debug\WAV_Creator.csproj.CoreCompileInputs.cache
+D:\Sound Analyzing\Develop\WAVSampleReader\WAV_Creator\obj\Debug\WAV_Creator.dll
+D:\Sound Analyzing\Develop\WAVSampleReader\WAV_Creator\obj\Debug\WAV_Creator.pdb
