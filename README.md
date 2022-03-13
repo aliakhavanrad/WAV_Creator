@@ -1,6 +1,11 @@
   # WAV_Creator
 
-  # Usage
+
+  ## Description
+  ##### This project can be used to create a WAV file using the sound frequency value.
+  ##### Additionally, it lets the user to manually add samples of a sound and export the result.
+  
+  ## Usage
 
   ```
   WAV_Creator.WAV wav = new WAV_Creator.WAV();
